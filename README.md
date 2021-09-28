@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  <a href="https://hashfx.github.io/harshfx/" target="blank">Harsh-hashfx</a> here...</h1> 
+<h1 align="center">Hi 👋,  <a href="http://harshtech.me/" target="blank">Harsh-hashfx</a> here...</h1> 
 <h3 align="center">A passionate developer from India</h3>  
   
   
@@ -7,6 +7,7 @@
 <a href="https://instagram.com/hash.prog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
 <a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14162484/hash-fx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="http://harshtech.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>  
 
 </p>
