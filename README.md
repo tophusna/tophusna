@@ -32,7 +32,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=todo-app&theme=blueberry&show_owner=true&border_radius=10)](https://github.com/hashfx/READMEsource)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=Space-Invader&theme=dracula&show_owner=false&border_radius=10)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=FlaskMarket&theme=dracula&show_owner=false&border_radius=10)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=GALAXY-game&theme=dracula&show_owner=false&border_radius=10)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=DSApython&theme=dracula&show_owner=false&border_radius=10)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
