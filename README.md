@@ -29,18 +29,16 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/hashfx/todo-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=todo-app&theme=blueberry&show_owner=true&border_radius=10)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=blueberry&show_owner=true&border_radius=10)]
 (https://github.com/hashfx/todo-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=FlaskMarket&theme=dracula&show_owner=true&border_radius=10)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula&show_owner=true&border_radius=10)]
 (https://github.com/hashfx/FlaskMarket)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=GALAXY-game&theme=radical&show_owner=true&border_radius=10)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&show_owner=true&border_radius=10)]
 (https://github.com/hashfx/GALAXY-game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=DSApython&theme=cobalt&show_owner=true&border_radius=10)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=cobalt&show_owner=true&border_radius=10)]
 (https://github.com/hashfx/DSApython)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
