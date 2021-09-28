@@ -29,6 +29,7 @@
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/hashfx/todo-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=todo-app&theme=blueberry&show_owner=true&border_radius=10)]
 (https://github.com/hashfx/todo-app)
