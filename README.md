@@ -39,6 +39,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashfx&repo=DSApython&theme=github_dark&show_owner=true&border_radius=10)](https://github.com/hashfx/DSApython)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hashfx&no-bg=true&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
 
