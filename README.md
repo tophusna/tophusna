@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/hashprog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="http://harshsoni-dev.tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="hash.prog" height="30" width="40" /></a>
 
+  
+<!-- Social Media Banners -->
+  
 <a href="https://github.com/hashfx" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="http://harshsoni.me/Portfolio2022">![Website: 3D Portfolio](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/hashprog">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
@@ -26,6 +29,9 @@
   
 </p>
   
+
+<!-- Language and Tools -->
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> 
@@ -45,8 +51,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
 
 
+<!-- OS, Language, Website Banners -->
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)   ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)    ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)    <a href="http://harshtech.me/">
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)   ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)    ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)    <a href="http://harshsoni.me/Portfolio2022/">
    <img align="center" src="https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue" />
 </a>
 <!-- ![](https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue) -->
