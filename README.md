@@ -16,7 +16,7 @@
 <!-- Social Media Banners -->
   
 <a href="https://github.com/hashfx" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
-<a href="http://harshsoni.me/Portfolio2022">![Website: 3D Portfolio](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)</a>
+<a href="https://hashfx.github.io/Portfolio2022">![Website: 3D Portfolio](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/hashprog">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://www.instagram.com/hash.prog">![Instagram: hash.prog](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 <a href="https://stackoverflow.com/users/14162484/hash-fx" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
