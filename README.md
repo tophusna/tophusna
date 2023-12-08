@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  <a href="https://hashfx.github.io/Portfolio2022" target="blank">Harsh Soni</a> here...</h1> 
+<h1 align="center">Hi 👋,  <a href="https://hashfx.github.io/Portfolio2022" target="blank">Huruna</a> here...</h1> 
 <h3 align="center">A passionate developer from India</h3>  
   
   
