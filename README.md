@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  <a href="https://hashfx.github.io/Portfolio2022" target="blank">Husna</a> here...</h1> 
-<h3 align="center">A passionate developer from India</h3>  
+<h3 align="center">A passionate developer from Germany</h3>  
   
   
 <!-- Social Media Handles -->
